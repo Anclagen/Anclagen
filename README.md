@@ -12,7 +12,7 @@
 
 ### Most used
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ancalagen)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ancalagen)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Software
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
