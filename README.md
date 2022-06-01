@@ -1,4 +1,4 @@
-## Hi, I'm Alexander
+## Hi, I'm Alexander :wave:
 
 - I'm currently studying towards a higher professional degree in front end developement at [Noroff](https://www.noroff.no/en/studies/vocational-school/front-end-development)
 - My current aim is to get comfortable using Node, npm, Babel and React.
