@@ -1,10 +1,10 @@
 ## Hi, I'm Alexander :wave:
 
-- I'm currently studying towards a higher professional degree in front end developement at [Noroff](https://www.noroff.no/en/studies/vocational-school/front-end-development)
-- My current aim is to get comfortable using Node, npm, Babel and React.
-- I'm open to collaborate, work and casually looking for work as I study.
-- The lastest thing I made; [Blog for my dog](https://deft-scone-ef0e91.netlify.app/index.html).
-- When I'm not coding or studying, I'm usually out and about with my dog, Leo.
+- :student: I'm currently studying towards a higher professional degree in front end developement at [Noroff](https://www.noroff.no/en/studies/vocational-school/front-end-development)
+- :technologist: My current aim is to get comfortable using Node, npm, Babel and React.
+- :computer: I'm open to collaborate, work and casually looking for work as I study.
+- :hammer:The lastest thing I made; [Blog for my dog](https://deft-scone-ef0e91.netlify.app/index.html).
+- :dog: When I'm not coding or studying, I'm usually out and about with my dog, Leo.
 
 ![leo_selfie](https://user-images.githubusercontent.com/91462616/171410966-9ea19ab3-9e7d-4a56-9e0f-e96bd078c3fc.jpg)
 
