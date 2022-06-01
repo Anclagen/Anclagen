@@ -30,4 +30,4 @@
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/alexander-barrett-64568a47/)
 [<img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">](https://discordapp.com/users/178264761199362048)
 
-![Profile views](https://gpvc.arturio.dev/[anclagen])
+![Profile views](https://gpvc.arturio.dev/anclagen)
