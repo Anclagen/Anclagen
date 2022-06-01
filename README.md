@@ -1,20 +1,23 @@
-## <center>Hi, I'm Alexander</center>
+## Hi, I'm Alexander
 
 - I'm currently studying towards a higher professional degree in front end developement at [Noroff](https://www.noroff.no/en/studies/vocational-school/front-end-development)
-- I'm currently getting comfortable using Node, npm, Babel and React.
+- My current aim is to get comfortable using Node, npm, Babel and React.
+- 
 - The lastest thing I made; [Blog for my dog](https://deft-scone-ef0e91.netlify.app/index.html).
 - I'm open to collaborate, work and casually looking for work as I study.
 
-## <center>What I've learned so far</center>
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+## What I've learned so far
+
+![](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![WordPress](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
-### Most used<center>Most used</center>
+
+### Most used
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anclagen)](https://github.com/anuraghazra/github-readme-stats)
 
-## <center>Software I use</center>
+## Software I use
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
