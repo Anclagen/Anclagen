@@ -36,5 +36,5 @@
 
 
 <div align="center">
-  ![Profile views](https://gpvc.arturio.dev/anclagen)
+  <img src="https://gpvc.arturio.dev/anclagen" alt="Profile views" />
 </div>
