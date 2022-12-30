@@ -1,7 +1,7 @@
 ## Hi, I'm Alexander :wave:
 
 - :mortar_board: I'm currently studying towards a higher professional degree in front end developement at [Noroff](https://www.noroff.no/en/studies/vocational-school/front-end-development)
-- :technologist: My current aim is to get comfortable using Node, npm, and React.
+- :technologist: My current aim is to get comfortable using Typescript and React.
 - :computer: I'm open to collaborate, work and casually looking for work as I study.
 - :hammer_and_wrench: I enjoy a building things, breaking down challenges and working through them.
 - :hammer:The lastest thing I made; [Blog for my dog](https://deft-scone-ef0e91.netlify.app/index.html).
