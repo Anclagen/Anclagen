@@ -5,7 +5,7 @@
 - :computer: I'm open to collaborate, work and casually looking for work as I study.
 - :hammer_and_wrench: I enjoy a building things, breaking down challenges and working through them.
 - :hammer:Recent creations; [Blog for my dog](https://deft-scone-ef0e91.netlify.app/index.html), [Social media site](https://so-social-alexander-barrett.netlify.app/), and [Online auction site](https://anclagen.github.io/Semester-Project-2/index.html)
-- 💻 Currently working on the backend server for a job website using ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)![Node](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+- 💻 Currently working on the backend server for Noroffs own job website using ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)![Node](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 - :dog: When I'm not coding or studying, I'm usually out and about with my dog, Leo.
 
 ![leo_selfie](https://user-images.githubusercontent.com/91462616/171410966-9ea19ab3-9e7d-4a56-9e0f-e96bd078c3fc.jpg)
