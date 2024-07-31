@@ -1,15 +1,19 @@
 ## Hi, I'm Alexander :wave:, I'm an English web-developer living in Bergen.
 
-- :mortar_board: Just finished studying towards a higher professional degree in front end developement at [Noroff](https://www.noroff.no/en/studies/vocational-school/front-end-development)
-- :hammer_and_wrench: I enjoy a building things, breaking down challenges and working through them.
-- :technologist: At the moment I am refining my skills in Next.js, and React ![React Badge](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=for-the-badge).
-- :technologist: Currently collaborating on [Mollify](https://github.com/Fermain/-mollify) an open source LMS Package using ![Svelte](https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00) ![Node](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white).
-- :hammer:Recent creations; [Blog for my dog](https://fluffy-piranha-dog-blog.netlify.app/), [Social media site](https://so-social-alexander-barrett.netlify.app/), [Online auction site](https://anclagen.github.io/Semester-Project-2/index.html) and [Simple react E-commerce site](https://github.com/Anclagen/TechBeauty/tree/development).
-- :hammer:Recent Freelance creations; [Quack Recruitment & Training](https://quackrecruitmentandtraining.co.uk/) built with Next.js and Tailwind.
-- :computer: I'm open to collaborate, work and actively looking for work now I am at an end to studies. Currently collaborating with other Noroff students on the backend servers for Noroffs own [job website](https://github.com/NoroffFEU/agency-api.noroff.dev) using ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge) ![Node](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-- :dog: When I'm not coding or studying, I'm usually out and about with my dog, Leo.
-
-![leo_selfie](https://user-images.githubusercontent.com/91462616/171410966-9ea19ab3-9e7d-4a56-9e0f-e96bd078c3fc.jpg)
+- :mortar_board: A graduate with a higher professional degree in front end developement from [Noroff](https://www.noroff.no/en/) currently taking further studies in backend developement. Checkout my [portfolio.](https://anclagen.github.io/)
+- :hammer: Recent freelancing; designed and created a Next.js and Tailwind site for [Quack Recruitment & Training](https://quackrecruitmentandtraining.co.uk/) assisting in it deployment, and configuration, as well as continuing to assist them with further intergration with other services and content updates as they grow.
+- :hammer_and_wrench: I enjoy a building things, breaking down challenges and working through them. Check out some of my recent finished and ongoing projects:
+  -  [Air BNB Clone](https://holidaze-jq-bs.netlify.app/) an ongoing learning project where I created an SPA in javascript utilising bootsrap while learning JQuery and Leaflet.
+  -  [Molify](https://mollify.noroff.dev/) a ongoing collaborative student project, built with Svelte Kit and TypeScript.
+  -  [Simple react E-commerce site](https://github.com/Anclagen/TechBeauty/tree/development) built in react using react router, and redux.
+  -  [Online auction site](https://anclagen.github.io/Semester-Project-2/index.html) built using boostrap.
+  -  [Social media site](https://so-social-alexander-barrett.netlify.app/) built using boostrap. 
+  -  [Blog for my dog](https://fluffy-piranha-dog-blog.netlify.app/) built using wordpress as a headless CMS.
+- 📚: At the moment I am learning Leaflet, SQL, React Native and Expo, with plans to try my hand at creating phone apps.
+- :technologist:  I'm open to collaborate, work and actively looking for work while I continue my studies. My current ongoing collaboration:
+  - Klatre Guru, currently collaborating with other backend students to build a Nestjs server to run a phone app built in expo.
+  -  [Mollify](https://github.com/Fermain/-mollify) an open source LMS Package using ![Svelte](https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00) ![Node](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white).
+  -  Backend server for Noroffs own [job website](https://github.com/NoroffFEU/agency-api.noroff.dev) using ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge) ![Node](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 
 ## What I've learned so far
 
@@ -19,10 +23,13 @@
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white).
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![JQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![React Badge](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=for-the-badge)
 ![Svelte](https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00)
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
+![SQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 ![Node](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
@@ -56,8 +63,11 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anclagen&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-
-
-<div align="center">
-  <img src="https://gpvc.arturio.dev/anclagen" alt="Profile views" />
+## Free time!
+:dog: When I'm not coding or studying, I'm usually out and about with my dog, Leo, or playing with my son Theo.
+<div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
+  <img src="https://github.com/user-attachments/assets/a3e50106-9045-4d2b-a01a-7971eb4f7889" alt="Theo" style="max-width: 400px; margin: 10px;">
+  <img src="https://user-images.githubusercontent.com/91462616/171410966-9ea19ab3-9e7d-4a56-9e0f-e96bd078c3fc.jpg" alt="leo_selfie" style="max-width: 400px; margin: 10px;">
 </div>
+
+
