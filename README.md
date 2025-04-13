@@ -1,6 +1,7 @@
 ## Hi, I'm Alexander :wave:, I'm an English web-developer living in Bergen.
 
 - :mortar_board: A graduate with a higher professional degree in front end developement from [Noroff](https://www.noroff.no/en/) currently taking further studies in backend developement. Checkout my [portfolio.](https://anclagen.github.io/)
+- :hammer: Currently working collaborative group of students, graduated and developer. Our current warm up project is the Productivity Graveyard, a fun site for buring your unfinished projects for what ever silly reason. Check out our [figjam](https://www.figma.com/board/P6zpeVOaOduO7oN6SgnGlx/Productivity-Graveyard?node-id=0-1&t=L4iTiPUzcBwXgBqq-1) and [designs](https://www.figma.com/design/suco8IDXJncunGhhuxCgmP/Project-Graveyard?node-id=0-1&t=SpCiumzBXENr1HeH-1).  
 - :hammer: Recent freelancing; designed and created a Next.js and Tailwind site for [Quack Recruitment & Training](https://quackrecruitmentandtraining.co.uk/) assisting in it deployment, and configuration, as well as continuing to assist them with further intergration with other services and content updates as they grow.
 - :hammer_and_wrench: I enjoy a building things, breaking down challenges and working through them. Check out some of my recent finished and ongoing projects:
   -  [Air BNB Clone](https://holidaze-jq-bs.netlify.app/) an ongoing learning project where I created an SPA in javascript utilising bootsrap while learning JQuery and Leaflet.
@@ -66,7 +67,6 @@
 ## Free time!
 :dog: When I'm not coding or studying, I'm usually out and about with my dog, Leo, or playing with my son Theo.
 <div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
-  <img src="https://github.com/user-attachments/assets/a3e50106-9045-4d2b-a01a-7971eb4f7889" alt="Theo" style="max-width: 400px; margin: 10px;">
   <img src="https://user-images.githubusercontent.com/91462616/171410966-9ea19ab3-9e7d-4a56-9e0f-e96bd078c3fc.jpg" alt="leo_selfie" style="max-width: 400px; margin: 10px;">
 </div>
 
